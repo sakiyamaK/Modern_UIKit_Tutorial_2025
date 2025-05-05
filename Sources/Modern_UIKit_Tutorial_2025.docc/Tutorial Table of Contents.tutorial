@@ -1,6 +1,9 @@
 @Tutorials(name: "Modern_UIKit_Tutorial_2025") {
     @Intro(title: "2025年版UIKitプロジェクトの始め方") {
-        2025年版UIKitプロジェクトの始め方
+        
+        え？まだStoryboardやAutoLayoutや状態管理で苦労してるの？？
+        
+        UIKitのまま宣言的なUIにすることでレガシーコードからスムーズに脱却しよう
         
         @Image(source: <#file#>, alt: "<#accessible description#>")
     }
